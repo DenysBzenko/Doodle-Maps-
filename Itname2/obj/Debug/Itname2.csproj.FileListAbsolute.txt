@@ -1,3 +1,7 @@
 D:\IT\Itname2\Itname2\obj\Debug\Itname2.csproj.AssemblyReference.cache
 D:\IT\Itname2\Itname2\obj\Debug\Itname2.csproj.SuggestedBindingRedirects.cache
 D:\IT\Itname2\Itname2\obj\Debug\Itname2.csproj.CoreCompileInputs.cache
+D:\IT\Itname2\Itname2\bin\Debug\Itname2.exe
+D:\IT\Itname2\Itname2\bin\Debug\Itname2.pdb
+D:\IT\Itname2\Itname2\obj\Debug\Itname2.exe
+D:\IT\Itname2\Itname2\obj\Debug\Itname2.pdb
