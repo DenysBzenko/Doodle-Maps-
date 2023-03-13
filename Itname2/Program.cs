@@ -1,9 +1,10 @@
-﻿namespace Itname2
+﻿using Itname2;
+
+var generator = new MapGenerator(new MapGeneratorOptions()
 {
-    internal class Program
-    {
-        public static void Main(string[] args)
-        {
-        }
-    }
-}
+    Height = 35,
+    Width = 90,
+});
+
+string[,] map = generator.Generate();
+new MapPrinter().Print(map);
