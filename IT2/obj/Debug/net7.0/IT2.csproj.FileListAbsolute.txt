@@ -1,0 +1,15 @@
+/Users/zakerden1234/Desktop/IT2/IT2/bin/Debug/net7.0/IT2
+/Users/zakerden1234/Desktop/IT2/IT2/bin/Debug/net7.0/IT2.deps.json
+/Users/zakerden1234/Desktop/IT2/IT2/bin/Debug/net7.0/IT2.runtimeconfig.json
+/Users/zakerden1234/Desktop/IT2/IT2/bin/Debug/net7.0/IT2.dll
+/Users/zakerden1234/Desktop/IT2/IT2/bin/Debug/net7.0/IT2.pdb
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.csproj.AssemblyReference.cache
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.AssemblyInfoInputs.cache
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.AssemblyInfo.cs
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.csproj.CoreCompileInputs.cache
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.dll
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/refint/IT2.dll
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.pdb
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/IT2.genruntimeconfig.cache
+/Users/zakerden1234/Desktop/IT2/IT2/obj/Debug/net7.0/ref/IT2.dll
